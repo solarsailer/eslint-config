@@ -1,0 +1,21 @@
+{
+  "name": "@matthieuoger/eslint-config",
+  "version": "0.1.0",
+  "description": "ESLint shareable config.",
+  "license": "MIT",
+  "repository": "https://github.com/solarsailer/eslint-config",
+  "author": {
+    "name": "Matthieu Oger",
+    "url": "https://matthieuoger.com/"
+  },
+  "scripts": {
+    "start": ""
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^5.13.0"
+  },
+  "peerDependencies": {
+    "eslint": ">= 5"
+  }
+}
